@@ -1,0 +1,15 @@
+{
+  "name": "rest-api-shop",
+  "version": "1.0.0",
+  "description": "Make a simple RESTApi in shop app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Friska L. Sianturi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
